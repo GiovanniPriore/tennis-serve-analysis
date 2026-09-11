@@ -1,0 +1,7 @@
+{
+  "best_k": 2,
+  "best_silhouette": 0.1526651510257806,
+  "rows": 70281,
+  "silhouette_sample_size": 10000,
+  "interpretation": "Exploratory match-level patterns only; clusters are not player types and are not causal."
+}

@@ -1,0 +1,17 @@
+.venv/
+.testdeps/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.matplotlib/
+artifacts/
+data/raw/
+data/processed/
+*.joblib
+*.pkl
+*.zip
+.ipynb_checkpoints/
+reports/test_predictions.csv

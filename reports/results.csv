@@ -1,0 +1,2 @@
+model,feature_group,test_rows,mae,rmse,r2
+xgboost,combined,5698,1.0836815578829027,1.3681162507299467,0.7132223126412423

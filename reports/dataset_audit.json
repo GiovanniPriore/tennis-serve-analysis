@@ -1,0 +1,15 @@
+{
+  "files": 25,
+  "rows": 74906,
+  "source_columns": 49,
+  "min_year": 2000,
+  "max_year": 2024,
+  "exact_duplicate_rows": 0,
+  "duplicate_match_keys": 0,
+  "parsed_completed_scores": 71630,
+  "negative_margin_scores": 1349,
+  "usable_scores": 70281,
+  "train_rows": 59260,
+  "validation_rows": 5323,
+  "test_rows": 5698
+}

@@ -1,0 +1,19 @@
+{
+  "model": "xgboost",
+  "feature_group": "combined",
+  "mae": 1.0836815578829027,
+  "rmse": 1.3681162507299467,
+  "r2": 0.7132223126412423,
+  "refit_train_validation_mae": 1.114719598247364,
+  "mae_ci_95": [
+    1.0639999753452651,
+    1.1048200601766052
+  ],
+  "r2_ci_95": [
+    0.6994439801251079,
+    0.726800182394002
+  ],
+  "test_rows": 5698,
+  "shap_created": false,
+  "explainability_note": "SHAP explains how the trained model uses each feature; it does not establish a causal relationship between serve statistics and match outcomes."
+}
